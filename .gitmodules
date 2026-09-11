@@ -66,3 +66,23 @@
 	path = games/projects/cardputer-atari800
 	url = https://github.com/falkenhawk/cardputer-atari800.git
 	branch = main
+[submodule "games/projects/Gameboy4cardputerADV-DualScreen"]
+	path = games/projects/Gameboy4cardputerADV-DualScreen
+	url = https://github.com/mariovirgili/Gameboy4cardputerADV-DualScreen.git
+	branch = main
+[submodule "games/projects/M5-ADV-Basketball-game"]
+	path = games/projects/M5-ADV-Basketball-game
+	url = https://github.com/judedanger2012/M5-ADV-Basketball-game.git
+	branch = main
+[submodule "games/projects/M5Cardputer_ADV-tic-tac-toe"]
+	path = games/projects/M5Cardputer_ADV-tic-tac-toe
+	url = https://github.com/Archer7x/M5Cardputer_ADV-tic-tac-toe.git
+	branch = main
+[submodule "games/projects/battleship"]
+	path = games/projects/battleship
+	url = https://github.com/sakkra-adv/battleship.git
+	branch = main
+[submodule "games/projects/cardputer-game-os"]
+	path = games/projects/cardputer-game-os
+	url = https://github.com/dkyazzentwatwa/cardputer-game-os.git
+	branch = main
