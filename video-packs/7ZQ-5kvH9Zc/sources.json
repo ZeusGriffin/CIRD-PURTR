@@ -1,0 +1,52 @@
+{
+  "video": {
+    "id": "7ZQ-5kvH9Zc",
+    "title": "The $30 Viral Gadget Hackers Are Buying! Cardputer ADV Review",
+    "creator": "Intriguing Tech",
+    "url": "https://www.youtube.com/watch?v=7ZQ-5kvH9Zc"
+  },
+  "repositories": [
+    {
+      "name": "Launcher",
+      "repo": "bmorcelli/Launcher",
+      "clone_url": "https://github.com/bmorcelli/Launcher.git",
+      "purpose": "Cardputer ADV firmware launcher and recovery path"
+    },
+    {
+      "name": "Bruce",
+      "repo": "BruceDevices/firmware",
+      "clone_url": "https://github.com/BruceDevices/firmware.git",
+      "purpose": "Wi-Fi, RF, RFID/NFC and general Cardputer multi-tool firmware"
+    },
+    {
+      "name": "Meshtastic",
+      "repo": "meshtastic/firmware",
+      "clone_url": "https://github.com/meshtastic/firmware.git",
+      "purpose": "LoRa mesh messaging firmware"
+    },
+    {
+      "name": "CardPuterAdvancedDoom",
+      "repo": "MAXXTANG/CardPuterAdvancedDoom",
+      "clone_url": "https://github.com/MAXXTANG/CardPuterAdvancedDoom.git",
+      "purpose": "Cardputer ADV DOOM port"
+    },
+    {
+      "name": "Cardputer-Game-Station-Emulators",
+      "repo": "geo-tp/Cardputer-Game-Station-Emulators",
+      "clone_url": "https://github.com/geo-tp/Cardputer-Game-Station-Emulators.git",
+      "purpose": "Retro emulator collection"
+    },
+    {
+      "name": "ESP32-Bus-Pirate",
+      "repo": "geo-tp/ESP32-Bus-Pirate",
+      "clone_url": "https://github.com/geo-tp/ESP32-Bus-Pirate.git",
+      "purpose": "Hardware bus/protocol debugging on ESP32/Cardputer"
+    },
+    {
+      "name": "cardputer-community-pack",
+      "repo": "mgwein/cardputer",
+      "clone_url": "https://github.com/mgwein/cardputer.git",
+      "purpose": "Large community Cardputer firmware collection matching many items in the video"
+    }
+  ]
+}
