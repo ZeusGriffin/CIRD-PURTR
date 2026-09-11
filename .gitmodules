@@ -1,0 +1,28 @@
+[submodule "upstream/Launcher"]
+	path = upstream/Launcher
+	url = https://github.com/bmorcelli/Launcher.git
+	branch = main
+[submodule "upstream/Bruce"]
+	path = upstream/Bruce
+	url = https://github.com/BruceDevices/firmware.git
+	branch = main
+[submodule "upstream/Meshtastic"]
+	path = upstream/Meshtastic
+	url = https://github.com/meshtastic/firmware.git
+	branch = develop
+[submodule "upstream/CardPuterAdvancedDoom"]
+	path = upstream/CardPuterAdvancedDoom
+	url = https://github.com/MAXXTANG/CardPuterAdvancedDoom.git
+	branch = main
+[submodule "upstream/Cardputer-Game-Station-Emulators"]
+	path = upstream/Cardputer-Game-Station-Emulators
+	url = https://github.com/geo-tp/Cardputer-Game-Station-Emulators.git
+	branch = xip_load
+[submodule "upstream/ESP32-Bit-Pirate"]
+	path = upstream/ESP32-Bit-Pirate
+	url = https://github.com/geo-tp/ESP32-Bit-Pirate.git
+	branch = pioarduino
+[submodule "upstream/cardputer-community-pack"]
+	path = upstream/cardputer-community-pack
+	url = https://github.com/mgwein/cardputer.git
+	branch = main
