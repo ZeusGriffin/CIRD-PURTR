@@ -26,3 +26,43 @@
 	path = upstream/cardputer-community-pack
 	url = https://github.com/mgwein/cardputer.git
 	branch = main
+[submodule "games/projects/CardPuterAdvancedDoom"]
+	path = games/projects/CardPuterAdvancedDoom
+	url = https://github.com/MAXXTANG/CardPuterAdvancedDoom.git
+	branch = main
+[submodule "games/projects/Cypher-Gamer"]
+	path = games/projects/Cypher-Gamer
+	url = https://github.com/dkyazzentwatwa/cardputer-games.git
+	branch = main
+[submodule "games/projects/cardputer-puzzles"]
+	path = games/projects/cardputer-puzzles
+	url = https://github.com/chongjiazhen/cardputer-puzzles.git
+	branch = main
+[submodule "games/projects/cardputer-chess"]
+	path = games/projects/cardputer-chess
+	url = https://github.com/kaini-industries/cardputer-chess.git
+	branch = main
+[submodule "games/projects/raising-hell-cardputer"]
+	path = games/projects/raising-hell-cardputer
+	url = https://github.com/acpayers-alt/raising-hell-cardputer.git
+	branch = main
+[submodule "games/projects/MiniMaze-for-Cardputer-ADV"]
+	path = games/projects/MiniMaze-for-Cardputer-ADV
+	url = https://github.com/chillyc0de/MiniMaze-for-Cardputer-ADV.git
+	branch = main
+[submodule "games/projects/Cardputer-Alchemy-ADV-Game"]
+	path = games/projects/Cardputer-Alchemy-ADV-Game
+	url = https://github.com/Zeloksa/Cardputer-Alchemy-ADV-Game.git
+	branch = main
+[submodule "games/projects/Piano-Tiles-ADV"]
+	path = games/projects/Piano-Tiles-ADV
+	url = https://github.com/Zeloksa/Piano-Tiles-ADV.git
+	branch = main
+[submodule "games/projects/geek-casino-cardputeradv"]
+	path = games/projects/geek-casino-cardputeradv
+	url = https://github.com/chatelp/geek-casino-cardputeradv.git
+	branch = main
+[submodule "games/projects/cardputer-atari800"]
+	path = games/projects/cardputer-atari800
+	url = https://github.com/falkenhawk/cardputer-atari800.git
+	branch = main
